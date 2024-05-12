@@ -1,0 +1,20 @@
+{
+  "name": "GestionGame",
+  "short_name": "RGG",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#23b2a4",
+  "background_color": "#0d403b",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "icon192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "icon512.png",
+      "type": "image/png"
+    }
+  ]
+}
